@@ -1,11 +1,11 @@
 ### 👋 Hi, I’m Ilya Kolchin.
-- 🥳 I’m interested in Frontend Web Development and UI/UX design.
+- 🥳  I’m interested in Frontend Web Development and UI/UX design.
  
-- 🌱 I’m learning React&Typescript by creating [production-project](https://github.com/ilkolchin/production-project).
+- 🌱  Now I’m learning React&Typescript by creating [production-project](https://github.com/ilkolchin/production-project).
 
-- 👀 Currently living in Thailand and looking for a new job.
+- 👀  Currently living in Thailand and looking for a new job.
 
-- 📫 How to reach me: kolchinilya7@gmail.com
+- 📫  How to reach me: kolchinilya7@gmail.com
 ---
 
 
