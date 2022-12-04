@@ -5,7 +5,7 @@
 
 - 👀  Currently living in Thailand and ***looking for a new job***.
 
-- 📫  How to reach me: kolchinilya7@gmail.com
+- 📫  How to reach me: kolchinilya7@gmail.com / https://t.me/ikolchin
 ---
 
 
