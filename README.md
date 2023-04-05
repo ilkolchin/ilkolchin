@@ -1,9 +1,10 @@
 # 💫 About Me:
 
-### 👋 Hi, I’m Ilya Kolchin.
-- 🥳  I’m interested in *Frontend Web Development and UI/UX design.*
+### 👋 Hi, I’m Ilya Kolchin
 
-- 👀  Currently living in Thailand and ***looking for a new job***.
+- 👨🏻‍💻  *Frontend Web Developer*
+
+- 👀  Currently living in **Thailand** and looking for a long-term ambitious **project to collaborate**
 
 - 📫  How to reach me: kolchinilya7@gmail.com / https://t.me/ikolchin
 ---
