@@ -1,26 +1,46 @@
-# 💫 About Me:
+# About Me
 
-### 👋 Hi, I’m Ilya Kolchin
+### Hi, I’m Ilya Kolchin
 
-- 👨🏻‍💻  *Frontend Web Developer*
+- Frontend Web Developer and Startup Founder
+- Living in Thailand and fully dedicated to my startup
+- Developing innovative web solutions since May 2021
+- Working closely with a talented art designer to create stunning, engaging websites
+- You can reach me at: [kolchinilya7@gmail.com](mailto:kolchinilya7@gmail.com) / [Telegram](https://t.me/ikolchin)
 
-- 👀  Currently living in **Thailand** and looking for a long-term ambitious **project to collaborate**
-
-- 📫  How to reach me: kolchinilya7@gmail.com / https://t.me/ikolchin
 ---
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) <br>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) <br>
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) <br>
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) 	 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) <br>
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# My Journey
 
+Starting my own startup has been an incredible journey. After struggling to stand out in a crowded job market, I decided to take matters into my own hands. Over time, I’ve grown significantly as a professional. I’m really proud of the progress and resilience I've shown along the way.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Vision
 
-<!---
-ilkolchin/ilkolchin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I believe that websites should be modern, stylish, and engaging. Capturing and holding user attention is crucial, and I specialize in creating professional animated scenes that help businesses achieve this goal.
 
+---
+
+# Tech Stack
+
+I specialize in the following technologies:
+
+- HTML5
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Tailwind CSS
+- SASS
+- Figma
+
+---
+
+# My Startup
+
+Right now, I’m focused on developing a cutting-edge web solution that combines modern design with interactive elements to create an engaging user experience. My goal is to help businesses stand out online by leveraging the latest technologies and design trends.
+
+Stay tuned for updates on my journey and the launch of our product!
+
+---
+
+This README provides an overview of my professional journey, the technologies I use, and the vision for my startup. Feel free to reach out if you’re interested in learning more or collaborating!
